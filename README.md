@@ -1,6 +1,6 @@
 ![MasterHead](https://editor.analyticsvidhya.com/uploads/78723aiml.jpeg)
 <h1 align="center">Hi 👋, I'm Ameen Ur Rehman</h1>
-<h3 align="center">I'm interested in Data Science and Open Source Projects.</h3>
+<h3 align="center">I'm interested in Data Science and want to contribute in Open Source Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="ameenurrehman" /> </p>
 
