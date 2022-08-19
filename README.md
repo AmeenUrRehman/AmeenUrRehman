@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/iamrehman34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrehman34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ameen-ur-rehman-9b07a321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameen-ur-rehman-9b07a321b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ameenurrehman034/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ameenurrehman034/account" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ameenurrehman034/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ameenurrehman034/account" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ameensadiya12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ameensadiya12345" height="30" width="40" /></a>
 </p>
 
