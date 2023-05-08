@@ -52,13 +52,20 @@ Currently, I'm focusing on exploring deep learning and machine learning concepts
 - Win 5 Hackathons
 - Create a scalable business.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenurrehman&show_icons=true&locale=en&layout=compact" alt="ameenurrehman" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenurrehman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameenurrehman&show_icons=true&locale=en" alt="ameenurrehman" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ameenurrehman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameenurrehman&" alt="ameenurrehman" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenurrehman&theme=radical" alt="GitHub Streak" />
+</p>
 
 ## 💬 Let's Chat
 
 If you'd like to discuss any of my projects, share your ideas, or just chat about data science and AI, feel free to reach out to me. I'm always open to connecting with like-minded individuals.
+
 
