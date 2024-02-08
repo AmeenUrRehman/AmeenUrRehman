@@ -45,11 +45,11 @@ I'm proficient in several programming languages and tools, including:
 
 Currently, I'm focusing on exploring deep learning and machine learning concepts in depth. I'm working on various projects that help me enhance my skills and knowledge in this field. I'm always open to new ideas and learning opportunities, so feel free to share your thoughts or projects with me.
 
-## 🎯 Goals for 2023
+## 🎯 Goals for 2024
 
-- Contribute to at least five open-source projects
-- Publish a research paper on machine learning
-- Win 5 Hackathons
+- Contribute to at least five open-source projects.
+- Focus on Research and Competitive Programming.
+- Win 5 Hackathons.
 - Create a scalable business.
 
 <p align="center">
